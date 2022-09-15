@@ -1,0 +1,15 @@
+
+.one img{
+    height: 300px;
+    width: 400px;
+}
+.one button{
+height: 30px;
+width: 200px;
+border-radius: 30px;
+}
+.two{
+    display: flex;
+    flex-wrap: wrap;
+    margin-left: 90px;
+}
